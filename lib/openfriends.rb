@@ -1,0 +1,6 @@
+require 'json'
+require 'uri'
+require 'openfriends/peer'
+require 'openfriends/consumer'
+require 'openfriends/provider'
+require 'openfriends/response'
